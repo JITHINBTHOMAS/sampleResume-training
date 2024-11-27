@@ -1,0 +1,19 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+.nomarpad{
+    margin: 0%;
+    padding: 0%;
+}
+.maindiv{
+    height: 100vh;
+}
+.infodiv{
+    margin: 3px;
+    padding: 3%;
+    width: 100vw;
+    height: auto;
+
+}

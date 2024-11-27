@@ -1,0 +1,36 @@
+body{
+    background-image: url("/946-9463665_paper-effect-vintage-paper-texture.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.table_custom { --bs-table-bg: transparent !important; }
+/* 
+table { 
+    border-collapse: separate; 
+    border-spacing: 0 10px; 
+    margin-top: -10px; 
+}
+td {
+    border: solid 1px #000;
+    border-style: solid none;
+    padding: 10px;
+    background-color: cyan;
+}
+td:first-child {
+    border-left-style: solid;
+    border-top-left-radius: 10px; 
+    border-bottom-left-radius: 10px;
+}
+td:last-child {
+    border-right-style: solid;
+    border-bottom-right-radius: 10px; 
+    border-top-right-radius: 10px; 
+} */
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid rgb(29, 8, 39);
+    padding: 20px; 
+    width: 200px;
+    height: 15px;   
+    background-color: transparent; 
+}
